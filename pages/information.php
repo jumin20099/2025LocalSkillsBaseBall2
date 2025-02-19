@@ -16,7 +16,7 @@
         <article id="info1">
             <h1>오시는 길</h1>
             <img src="./map.PNG" alt="">
-            <p style="color: #7b9acc;"><strong>[Skills baseball park 소개]</strong><br>
+            <p style="color: black"><strong>[Skills baseball park 소개]</strong><br>
                 Skills baseball park는 시민들의 복리증진을 위하여 설치되었으며, 시민들의 건강 및 복지향상과 시민들에게 편리한 시설물 이용을 위한 야구장입니다. <br>
                 야구를 사랑하며 즐기는 생활체육인들이 모이는 곳 <br>
                 다양한 즐거움과 감동을 선사하는 곳 <br>

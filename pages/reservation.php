@@ -75,7 +75,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <?php include ("./components/header.php") ?>
 
     <article id="gameTableContainer">
-        <table style="color: #7b9acc;" id="resTable">
+        <table style="color: black;" id="resTable">
             <tr>
                 <th>일</th>
                 <th>월</th>
